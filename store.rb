@@ -1,1 +1,2 @@
-This is a store model file.
+This is a store model file. 
+Changed
